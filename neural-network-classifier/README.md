@@ -2,7 +2,7 @@
 
 This Project/Assignment was given to me by "__TuteDude__". This project demonstrate the implementation of a __Neural Network from scratch__ using only "__NumpY__" and "__Matplotlib__", without any external machine learning libraries like TensorFLow or PyTorch. The network is trained to classify pixel-based bainary patterns representing the characters A, B,and C on a 5x6 grid. This project soldifies understanding of core neural network concepts such as forward propagation, back propagation, gradient descent, and weight optimization.
 
-📌### __Project Overview__
+📌 __Project Overview__
 
 - Implemented a 2-Layer neural network using NumPy to classify the letters A, B, and C bssed on pixel data.
 - Images are represented as flattened 1D arrays from 5x6 grid (30 pixels).
@@ -11,7 +11,7 @@ This Project/Assignment was given to me by "__TuteDude__". This project demonstr
 - Optimized weights using gradient descent.
 - Tracked loss reduction and accuracy improvement over epochs.
 
-📝### __Approach and Methodology__
+📝 __Approach and Methodology__
 
 1. #### __Data Representation__
   - Each letter (A, B, C) is represented in a 5x6 grid as binary pixel patterns.
