@@ -1,4 +1,4 @@
-## Neural Network from Scratch
+## [Neural Network from Scratch](Basic_neural.ipynb)
 
 This Project/Assignment was given to me by "__TuteDude__". This project demonstrate the implementation of a __Neural Network from scratch__ using only "__NumpY__" and "__Matplotlib__", without any external machine learning libraries like TensorFLow or PyTorch. The network is trained to classify pixel-based bainary patterns representing the characters A, B,and C on a 5x6 grid. This project soldifies understanding of core neural network concepts such as forward propagation, back propagation, gradient descent, and weight optimization.
 
