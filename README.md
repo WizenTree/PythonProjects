@@ -21,4 +21,7 @@ In this repository I am uploading all the Assignments and Projects that I have r
 - As an really deep divng into the machine learning aspects of python and learning how neural networks works and mine own understanding of it. I have created a folder named "__neural-network-classifier__". In this folder you will find the readme file and a very basic neural network that i have managed to make.
 
 #### [Assignment 7](covid19-analysis)
-- In this Assignment I was pre assigned the dataset about covid 19 and was told to make an analysis based on the data. I have created the folder for this Case Study in the folder named "__covid19-analysis__". 
+- In this Project I was pre-assigned the dataset about covid 19 and was told to make an analysis based on the data. I have created the folder for this Case Study in the folder named "__covid19-analysis__". 
+
+#### [Assignment 8](rainfall-prediction)
+- In this Project I am using the pre-assigned dataset named austin-weather and I am using the Linear Regression model from sklearn to predict the rainfall patterns. I have created the folder named "__rainfall-prediction__" for the files related to dataset.
