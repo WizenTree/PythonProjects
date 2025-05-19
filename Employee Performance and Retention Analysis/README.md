@@ -109,4 +109,4 @@ The project is divided into four phases, which guide you through data collection
   - Model evaluation and predictive capabilities.
   - Visualizations and recommendations.
 
-##### All of the above have been done in the file named "[Employee Performance and Retention Analysis](Employee Performance and Retention Analysis)" along with the dataset named "[employee_data.csv](employee_data.csv)" with the python code to generate the dataset named "[Dataset_generator.py](Dataset_generator.py)"
+##### All of the above have been done in the file named "[Employee Performance and Retention Analysis](Employee Performance and Retention Analysis.ipynb)" along with the dataset named "[employee_data.csv](employee_data.csv)" with the python code to generate the dataset named "[Dataset_generator.py](Dataset_generator.py)"
