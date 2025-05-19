@@ -29,5 +29,5 @@ In this repository I am uploading all the Assignments and Projects that I have r
 #### [Assignment 9](Tumor_Detection-project)
 - In this project I am using the pre-assigned dataset named tumor_detection.csv and I am using the Random Forest Classifier from sklearn to detect whether a tumor is begining or malignant using machine learning techniques. I have created the folder named "__Tumor_Detection-project__" for the files.
 
-#### [Assignment 10]([Employee_Performance_and_Retention_Analysis/Employee_Performance_and_Retention_Analysis.ipynb](https://github.com/WizenTree/TuteDude-DataScienceProjects/tree/920468acbe755fe1aa8bad73f215d8bad478d3af/Employee%20Performance%20and%20Retention%20Analysis))
+#### [Assignment 10](Employee Performance and Retention Analysis)
 - In this project I have started with creating the dataset since I couldn't find any dataset related to my task, to takle the task I have created a python script to help me generate a dataset . In the dataset I have done EDA and analysied the data using the machine learning and deep learning algorithms, and also visulalized the trends to help better understand the data . I have created a folder named "__Employee Performance and Retention Analysis__" for the files related to the project.
