@@ -25,3 +25,9 @@ In this repository I am uploading all the Assignments and Projects that I have r
 
 #### [Assignment 8](rainfall-prediction)
 - In this Project I am using the pre-assigned dataset named austin-weather and I am using the Linear Regression model from sklearn to predict the rainfall patterns. I have created the folder named "__rainfall-prediction__" for the files related to dataset.
+
+#### [Assignment 9](Tumor_Detection-project)
+- In this project I am using the pre-assigned dataset named tumor_detection.csv and I am using the Random Forest Classifier from sklearn to detect whether a tumor is begining or malignant using machine learning techniques. I have created the folder named "__Tumor_Detection-project__" for the files.
+
+#### [Employee Performance and Retention Analysis](Employee_Performance_and_Retention_Analysis.ipynb)
+- In this project I have started with creating the dataset since I couldn't find any dataset related to my task, to takle the task I have created a python script to help me generate a dataset . In the dataset I have done EDA and analysied the data using the machine learning and deep learning algorithms, and also visulalized the trends to help better understand the data . I have created a folder named "__Employee Performance and Retention Analysis__" for the files related to the project.
