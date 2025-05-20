@@ -20,7 +20,7 @@ This Project/Assignment was given to me by "__TuteDude__". This project demonstr
 2. #### __Neural Network Architecture__
   - A simple 2-Layer network:
      - __input layer__ : 30 neurons(representing 30 pixels)
-     - __Hidden Layer__: 15 neurons(chosen experimentally)
+     - __Hidden Layer__: 10 neurons(chosen experimentally)
      - __Output Layer__: 3 neurons (one for each class A, B, C)
 
 3. #### __Forward Propagation__
